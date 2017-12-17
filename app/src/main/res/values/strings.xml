@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TerceraApp</string>
+    <string name="boton0">Esto es un Botón</string>
+    <string name="boton1">Botón pulsado</string>
+    <string name="pulsa">Pulsar</string>
+    <string name="boton2">Boton pulsar largo</string>
+
+</resources>
